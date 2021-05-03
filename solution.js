@@ -1,3 +1,0 @@
-let parse = function(num) {
-    
-};
